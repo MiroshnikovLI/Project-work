@@ -12,7 +12,7 @@
 <h2 style="font-weight: bold; color: #FFF;">Gotham</h2>
 
 Используется для надписи в header  \
-![alt text](image-1.png)
+![alt text](/image/image-1.png)
 
 ```
 
@@ -46,7 +46,7 @@
 <h2 style="font-weight: bold; color: #FFF;">Helvetica</h2>
 
 Используется для выделение блока страницы \
-![alt text](image.png)
+![alt text](/image/image.png)
 
 ```
 
@@ -60,7 +60,7 @@
 <h2 style="font-weight: bold; color: #FFF;">Manrope</h2>
 
 В мобильной версии для выделение блока страницы \
-![alt text](image-7.png)
+![alt text](/image/image-7.png)
 
 ```
   - font-weight: 400;
@@ -150,11 +150,11 @@
 Фон блока
   - background-color: #C3C3C3CC
 ```
-![alt text](image-6.png)
+![alt text](/image/image-6.png)
 ```
 Фон блока
   - background-color: #191919
 ``` 
-![alt text](image-5.png)
+![alt text](/image/image-5.png)
 
 <a><h1 style="margin-left: 80%;">[Наверх &#8593;](#0)</h1></a>
